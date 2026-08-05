@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="UAV design illustration">
+  <defs>
+    <linearGradient id="uavBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#07121b" />
+      <stop offset="100%" stop-color="#042535" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#uavBg)" rx="36" />
+  <path d="M180 360c90-90 180-130 300-120 80 8 165 48 220 120" stroke="#00f3ff" stroke-width="18" fill="none" stroke-linecap="round" opacity="0.8" />
+  <path d="M480 360c-14-28-28-48-52-58-22-8-46-8-72-4-30 5-50 16-68 34" stroke="#00ff8a" stroke-width="16" fill="none" stroke-linecap="round" />
+  <path d="M210 358l-40 40v36l40-20" fill="#0ff" opacity="0.12" />
+  <path d="M560 360l40 40v34l-40-18" fill="#0ff" opacity="0.12" />
+  <circle cx="360" cy="310" r="28" fill="#00f3ff" opacity="0.2" />
+  <circle cx="380" cy="320" r="16" fill="#00f3ff" />
+  <path d="M285 285l60-90 95 40 70 130" stroke="#c7fdff" stroke-width="12" fill="none" stroke-linecap="round" />
+  <text x="180" y="140" fill="#c7f8ff" font-size="28" font-family="Inter, sans-serif">UAV Airframe Concept</text>
+</svg>

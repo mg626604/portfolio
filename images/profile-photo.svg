@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Profile illustration">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#04121d" />
+      <stop offset="100%" stop-color="#022b3a" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f3ff" />
+      <stop offset="100%" stop-color="#00ff8a" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" rx="40" fill="url(#bg)" />
+  <circle cx="300" cy="220" r="100" fill="rgba(255,255,255,0.08)" stroke="url(#accent)" stroke-width="12" />
+  <path d="M170 500c20-120 160-120 160-120s140 0 160 120H170Z" fill="rgba(255,255,255,0.08)" />
+  <path d="M230 200c0-45 30-80 70-80s70 35 70 80" fill="none" stroke="rgba(255,255,255,0.35)" stroke-width="20" stroke-linecap="round" />
+  <path d="M270 320c0-25 20-40 40-40s40 15 40 40" fill="none" stroke="rgba(255,255,255,0.35)" stroke-width="20" stroke-linecap="round" />
+  <circle cx="250" cy="220" r="12" fill="#ffffff" opacity="0.9" />
+  <circle cx="350" cy="220" r="12" fill="#ffffff" opacity="0.9" />
+  <path d="M250 260q50 45 100 0" fill="none" stroke="#ffffff" stroke-width="10" stroke-linecap="round" />
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Water quality monitor illustration">
+  <defs>
+    <linearGradient id="waterBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#03101f" />
+      <stop offset="100%" stop-color="#02354d" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#waterBg)" rx="34" />
+  <rect x="170" y="160" width="460" height="260" rx="28" fill="#0d2f44" stroke="#00f3ff" stroke-width="5" />
+  <rect x="240" y="210" width="320" height="160" rx="20" fill="#062335" />
+  <path d="M260 250h280" stroke="#00ff8a" stroke-width="14" stroke-linecap="round" />
+  <path d="M260 280h180" stroke="#00f3ff" stroke-width="12" stroke-linecap="round" />
+  <circle cx="310" cy="330" r="14" fill="#00ff8a" />
+  <circle cx="360" cy="330" r="14" fill="#00ff8a" />
+  <circle cx="410" cy="330" r="14" fill="#00ff8a" />
+  <path d="M420 395c40-40 90-20 110 20" stroke="#00e9ff" stroke-width="10" fill="none" opacity="0.6" />
+  <path d="M245 420c15 35 55 90 145 54 84-32 117-82 149-72" stroke="#00f3ff" stroke-width="12" fill="none" opacity="0.35" />
+  <path d="M290 205l20-40h140l20 40" stroke="#00f3ff" stroke-width="10" fill="none" opacity="0.8" />
+  <text x="220" y="170" fill="#b9f8ff" font-size="28" font-family="Inter, sans-serif">TDS Meter Console</text>
+</svg>

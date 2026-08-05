@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Thermal wall illustration">
+  <defs>
+    <linearGradient id="wallGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#091c26" />
+      <stop offset="100%" stop-color="#012a36" />
+    </linearGradient>
+    <linearGradient id="layerGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f3ff" />
+      <stop offset="100%" stop-color="#00ff8a" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#wallGrad)" rx="30" />
+  <rect x="110" y="120" width="580" height="360" rx="18" fill="#071a22" stroke="#00f3ff" stroke-width="4" />
+  <rect x="140" y="160" width="520" height="80" rx="14" fill="rgba(0,243,255,0.12)" />
+  <rect x="140" y="260" width="520" height="80" rx="14" fill="rgba(0,255,138,0.12)" />
+  <rect x="140" y="360" width="520" height="80" rx="14" fill="rgba(255,255,255,0.08)" />
+  <line x1="160" y1="210" x2="640" y2="210" stroke="#00f3ff" stroke-width="2" stroke-dasharray="12 12" />
+  <line x1="160" y1="310" x2="640" y2="310" stroke="#00ff8a" stroke-width="2" stroke-dasharray="12 12" />
+  <line x1="160" y1="410" x2="640" y2="410" stroke="#ffffff" stroke-width="2" stroke-dasharray="12 12" />
+  <text x="180" y="150" fill="#d0f7ff" font-size="28" font-family="Inter, sans-serif">Bio-Composite Insulation</text>
+  <text x="180" y="250" fill="#d0f7ff" font-size="28" font-family="Inter, sans-serif">Glass Wool Layer</text>
+  <text x="180" y="350" fill="#d0f7ff" font-size="28" font-family="Inter, sans-serif">Concrete Substrate</text>
+  <circle cx="570" cy="200" r="32" fill="#00f3ff" opacity="0.15" />
+  <circle cx="570" cy="200" r="16" fill="#00f3ff" />
+  <path d="M170 420c80-70 240-60 360-10" stroke="#00ff8a" stroke-width="10" fill="none" stroke-linecap="round" opacity="0.6" />
+  <circle cx="535" cy="320" r="18" fill="#00ff8a" opacity="0.45" />
+</svg>
